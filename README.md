@@ -2,7 +2,7 @@
 
 A simplified virtual care platform where patients can browse doctors, book appointments, and manage their bookings.
 
-**Live demo:** _[Add Vercel URL after deployment]_
+**Live demo:** https://virtucare-red.vercel.app/doctors
 
 ---
 
